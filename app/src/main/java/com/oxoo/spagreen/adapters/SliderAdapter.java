@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+import androidx.annotation.Nullable;
+
 import com.github.islamkhsh.CardSliderAdapter;
 import com.makeramen.roundedimageview.RoundedImageView;
 import com.oxoo.spagreen.DetailsActivity;
@@ -18,8 +20,8 @@ import com.oxoo.spagreen.models.home_content.Slide;
 import com.oxoo.spagreen.utils.PreferenceUtils;
 import com.squareup.picasso.Picasso;
 
+
 import org.jetbrains.annotations.NotNull;
-import org.jetbrains.annotations.Nullable;
 
 import java.util.ArrayList;
 

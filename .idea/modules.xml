@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ANDROID_SOURCE_CODE.iml" filepath="$PROJECT_DIR$/.idea/modules/ANDROID_SOURCE_CODE.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ANDROID_SOURCE_CODE.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ANDROID_SOURCE_CODE.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OXOO.iml" filepath="$PROJECT_DIR$/.idea/modules/OXOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OXOO.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OXOO.app.iml" />
     </modules>
   </component>
 </project>

@@ -174,7 +174,7 @@ public class EventPaymentStripeActivity extends AppCompatActivity {
                 mSubmitBt.setVisibility(View.GONE);
                 Stripe stripe = new Stripe(EventPaymentStripeActivity.this, publisherKey);
 
-                stripe.createToken(
+                stripe.createCardToken(
                         card, new ApiResultCallback<Token>() {
                             @Override
                             public void onSuccess(@NonNull Token result) {
