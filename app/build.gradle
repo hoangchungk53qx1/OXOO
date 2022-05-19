@@ -139,7 +139,7 @@ dependencies {
     implementation 'com.google.android.libraries.cast.companionlibrary:ccl:2.8.4'
     // start app ad
     implementation 'com.startapp:inapp-sdk:3.10.1'
-    implementation 'com.github.ixiDev:GDPRChecker:v0.2'
+    implementation 'com.github.ixiDev:GDPRChecker:0.2'
     implementation 'com.google.android.ads.consent:consent-library:1.0.8'
     //bottom navigation
     implementation 'com.github.volsahin:bottomify-navigation-view:1.0.2'
