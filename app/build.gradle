@@ -89,7 +89,7 @@ dependencies {
     implementation 'com.makeramen:roundedimageview:2.3.0'
     implementation 'com.orhanobut:dialogplus:1.11@aar'
     // shimmer layout
-    implementation 'com.facebook.shimmer:shimmer:0.4.0'
+    implementation 'com.facebook.shimmer:shimmer:0.5.0'
     implementation 'com.balysv:material-ripple:1.0.2'
     // ripple effect
 
