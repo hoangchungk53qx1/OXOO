@@ -109,7 +109,7 @@ dependencies {
     implementation 'com.stripe:stripe-android:+'
     implementation 'com.stripe:stripe-java:5.36.0'
     implementation 'com.daimajia.easing:library:2.0@aar'
-    implementation 'com.daimajia.androidanimations:library:2.3@aar'
+    implementation 'com.daimajia.androidanimations:library:2.4@aar'
     // download manager
     implementation 'com.mindorks.android:prdownloader:0.6.0'
     implementation 'com.mani:ThinDownloadManager:1.4.0'
